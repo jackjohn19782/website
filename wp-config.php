@@ -26,7 +26,7 @@ define('DB_NAME', 'website_users');
 define('DB_USER', 'uursprx_user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Aa123456');
+define('DB_PASSWORD', 'password_here');
 
 /** MySQL hostname */
 define('DB_HOST', '13.95.125.0');
